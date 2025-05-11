@@ -13,3 +13,6 @@ categories: [Blog]
 ## Post 작성
 - https://chirpy.cotes.page/posts/write-a-new-post
 - 샘플: https://github.com/cotes2020/jekyll-theme-chirpy/tree/master/_posts
+
+## Google analytics, Google Search Console 설정
+- https://kim-eun-ji.github.io/etc/2021-05-18-ga/
