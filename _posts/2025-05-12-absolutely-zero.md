@@ -6,8 +6,6 @@ categories: [English, Song]
 tags:
 ---
 
-# Absolutely Zero 가사 영한 번역
-
 You. You were a friend
 
 너. 너는 친구였어
